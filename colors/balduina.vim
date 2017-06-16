@@ -28,4 +28,6 @@ hi PreProc    cterm=NONE ctermfg=Yellow        gui=NONE guifg=#ffff00
 hi Type       cterm=NONE ctermfg=DarkGreen     gui=NONE guifg=#00ff00         
 hi Special    cterm=NONE ctermfg=Red           gui=NONE guifg=#ff0000        
 hi Delimiter  cterm=NONE ctermfg=Yellow        gui=NONE guifg=#ffff00        
+hi Pmenu      cterm=NONE ctermbg=Brown         gui=NONE guifg=#ffff00        
+hi Folded     cterm=NONE ctermfg=Yellow        gui=NONE guifg=#00ff00         
 
