@@ -29,8 +29,9 @@ hi Type       cterm=NONE ctermfg=DarkGreen     gui=NONE guifg=#00ff00
 hi Special    cterm=NONE ctermfg=Red           gui=NONE guifg=#ff0000        
 hi Delimiter  cterm=NONE ctermfg=Yellow        gui=NONE guifg=#ffff00        
 hi Pmenu      cterm=NONE ctermbg=Brown         gui=NONE guifg=#ffff00        
-hi PmenuSel   cterm=NONE ctermbg=White        gui=NONE guifg=#ffff00        
+hi PmenuSel   cterm=NONE ctermbg=White         gui=NONE guifg=#ffff00        
 hi Folded     cterm=NONE ctermfg=Yellow        gui=NONE guifg=#00ff00         
 hi FoldColumn cterm=NONE ctermfg=LightGray     gui=NONE guifg=#dddddd
+hi VertSplit   cterm=NONE ctermbg=LightGray ctermfg=LightGray     gui=NONE guifg=#dddddd
 hi Title      cterm=bold ctermfg=Yellow        gui=bold guifg=#ffff00     
 
